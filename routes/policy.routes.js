@@ -6,7 +6,7 @@ const upload = require('../middleware/multer');
 // Create a new policy
 router.post('/create ', policyController.createPolicy);
 
-// 
+// Upload a policy file in xlsv or csv
 router.post('/upload', upload.single('file'), policyController.uploadPolicy)
 
 // Get all policies
