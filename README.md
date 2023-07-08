@@ -1,4 +1,4 @@
-Sure! Here's an example of a README file for a Node.js project:
+README file for a Node.js project:
 
 # Simple Node App
 
@@ -13,8 +13,8 @@ Short description of your Node.js project.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd node-app`
+1. Clone the repository: `https://github.com/karthikAnand810/node-task.git`
+2. Navigate to the project directory: `cd node-task`
 3. Install the dependencies: `npm install`
 
 ## Usage
